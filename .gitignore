@@ -1,0 +1,16 @@
+# Keil / STM32 编译文件
+*.o
+*.d
+*.crf
+*.bak
+*.dep
+*.uvguix.*
+Objects/
+Listings/
+
+# ROS / Ubuntu 编译文件
+build/
+devel/
+install/
+log/
+.vscode/
